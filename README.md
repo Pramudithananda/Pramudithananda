@@ -71,7 +71,7 @@ const techStack = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/p-ananda-a38426b0/">
+  <a href="https://www.linkedin.com/in/ranjith-karunarathne-941a01367">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Pramudithananda">
